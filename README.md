@@ -1,5 +1,9 @@
 # 💫 About Me:
-🔭 I’m currently working on Data Visualization using Python<br>👯 I’m looking to collaborate on Data Analysis Project<br>🤝 I’m looking for help with DSA + Power BI<br>🌱 I’m currently learning DAA + DSA + JAVA<br>💬 Ask me about Python minor projects
+🔭 Currently working on Data Visualization using Python
+👯 Open to collaborating on Data Analysis projects
+🤝 Looking for guidance in DSA & Power BI
+🌱 Actively learning DAA, DSA & Java
+💬 Feel free to ask me about Python minor projects, MERN stack development, or Android development
 
 
 ## 🌐 Socials:
